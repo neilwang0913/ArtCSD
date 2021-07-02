@@ -6,3 +6,8 @@ ver;
 clc;
 % Display contents
 disp('你好,AI')
+% 比较计算性能好坏，时间是最好的标准
+tic
+A = rand(12000,6666);
+B = rand(12000,8888);
+toc
