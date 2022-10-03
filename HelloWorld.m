@@ -5,7 +5,7 @@ ver;
 % Clear Command Window
 clc;
 % Display contents
-disp('你好,AI')
+disp('Hello,AI')
 % 比较计算性能好坏，时间是最好的标准
 % comparing with diff time comsuption
 tic
